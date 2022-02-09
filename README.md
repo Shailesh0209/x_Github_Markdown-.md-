@@ -109,7 +109,7 @@ You can tell GitHub to ignore (or escape) Markdown formatting by using \ before 
 
 Let's rename \*our-new-project\* to \*our-old-project\*.
 
-# Disabling Markdown rendering: [Disabling Markdown rendering](You can tell GitHub to ignore (or escape) Markdown formatting by using \ before the Markdown character.
+# Disabling Markdown rendering: [Disabling Markdown rendering](You can tell GitHub to ignore (or escape) Markdown formatting by using \ before the Markdown character.)
 
 Let's rename \*our-new-project\* to \*our-old-project\*.)
 
